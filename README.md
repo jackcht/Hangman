@@ -22,6 +22,6 @@ I ran the code using the following command (in Windows):
 	
 You can use ‘python hangman.py -h’ for help. 
 
-•	Basically first parameter is the dictionary file and the second (third, fourth…) should be a list of words used for the game or just one string ended with ‘txt’. 
+•	Basically first parameter (filename) is the dictionary file and the second (third, fourth…) should be a list of words used for the game or just one string ended with ‘txt’. 
 
-•	The second choice (file) means using all the words in the file for the game.
+•	The second parameter (filename) means using all the words in the file for the game.
